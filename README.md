@@ -1,12 +1,5 @@
 # Oie😁, eu sou o Vinícius Martins Cotrim. 
 
-<style>
-  .header {
-    background-color: red;
-  }
-</style>
-
-
 ### Meu GitHub:
 <div class="header> 
   <a href="https://beacons.ai/Cotrims">
